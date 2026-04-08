@@ -20,7 +20,6 @@
 <p>
 <b>Modular</b> · Use only what you need<br>
 <b>Open Source</b> · Forever free and transparent<br>
-<b>Community-Driven</b> · Built for developers, by developers<br>
 <b>Professional</b> · Production-ready code
 </p>
 
